@@ -38,7 +38,7 @@ Hi there! I'm Yahye Hassan, a passionate web developer and creative designer bas
 - Somali (Native)   <br/>
 - English (Fluent)   <br/>
 - Arabic (Basic)   <br/>
-- Programming: JavaScript, Dart, C++, c,  <br/>
+- Programming: JavaScript, Dart, C++, c  <br/>
 
 ---
 
